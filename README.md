@@ -33,7 +33,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
 --->
 
-![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=true)
+![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=false)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
